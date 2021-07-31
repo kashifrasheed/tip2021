@@ -1,0 +1,19 @@
+plugins {
+    id 'java'
+}
+
+group 'org.tip2021'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile('org.junit.jupiter:junit-jupiter-api:5.7.0')
+    compile('org.junit.jupiter:junit-jupiter-engine:5.7.0')
+}
+
+test {
+    useJUnitPlatform()
+}

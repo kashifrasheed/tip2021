@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.tip2021.FibonnaciTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-31T09:25:51" hostname="Kashifs-MacBook-Pro-2.local" time="0.043">
+  <properties/>
+  <testcase name="FibonnaciForNegative()" classname="org.tip2021.FibonnaciTest" time="0.028"/>
+  <testcase name="emptyInteger()" classname="org.tip2021.FibonnaciTest" time="0.001"/>
+  <testcase name="FibonnaciForFive()" classname="org.tip2021.FibonnaciTest" time="0.004"/>
+  <testcase name="FibonnaciForNine()" classname="org.tip2021.FibonnaciTest" time="0.009"/>
+  <testcase name="twoInteger()" classname="org.tip2021.FibonnaciTest" time="0.001"/>
+  <system-out><![CDATA[-9       
+0       
+5       
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+9       
+8       
+7       
+6       
+5       
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+        4
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        5
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+        6
+5       
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+        4
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        7
+6       
+5       
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+        4
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        5
+4       
+3       
+2       
+1       
+        0
+        1
+        2
+1       
+        0
+        3
+2       
+1       
+        0
+        1
+1       
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
